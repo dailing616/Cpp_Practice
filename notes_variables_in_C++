@@ -1,5 +1,0 @@
-char grade = 'A'; #a single character, use single quotation mark
-string phrase = "Papadox Dai";
-int age = 50;
-double gpa = 3.9; #float is more circumstance-specific comapred to double
-bool isMale = true;
